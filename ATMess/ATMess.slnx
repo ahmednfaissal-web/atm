@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ATMess/ATMess.vcxproj" Id="108c847a-20ec-426b-b949-11ea09808a42" />
+</Solution>
